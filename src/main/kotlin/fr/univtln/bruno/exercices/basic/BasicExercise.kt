@@ -1,3 +1,5 @@
+package fr.univtln.bruno.exercices.basic
+
 // Constants
 const val DEFAULT_DURATION = 15
 const val DEFAULT_CALORIES = 150
